@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1688633532 source:d:\aasr progriming\cs50\cs50\main.c
+	<stdio.h>
+	<stdlib.h>
+	<cs50.h>
+
+1683031042 d:\aasr progriming\cs50\libcs50-main\src\cs50.c
+	<ctype.h>
+	<errno.h>
+	<float.h>
+	<limits.h>
+	<math.h>
+	<stdarg.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cs50.h"
+
+1683031042 d:\aasr progriming\cs50\libcs50-main\src\cs50.h
+	<float.h>
+	<limits.h>
+	<stdarg.h>
+	<stdbool.h>
+	<stddef.h>
+
